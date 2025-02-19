@@ -1,0 +1,57 @@
+_repo: Isanmaattomat-b-Romaani_75336
+_version: 0.0.1
+alternative_title: De uden fædreland. Finnish
+contributor:
+  translators:
+  - agent_name: Kailas, Uuno
+    birthdate: 1901
+    deathdate: 1933
+    gutenberg_agent_id: '4250'
+    url: http://www.gutenberg.org/2009/agents/4250
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Uuno_Kailas
+    - https://fi.wikipedia.org/wiki/Uuno_Kailas
+  - agent_name: Rinne, Alvari
+    alias: Rinne, Alvari Santeri
+    birthdate: 1887
+    deathdate: 1957
+    gutenberg_agent_id: '57870'
+    url: http://www.gutenberg.org/2009/agents/57870
+    wikipedia: https://fi.wikipedia.org/wiki/Alvari_Rinne
+  - agent_name: Tallgren, Anna-Maria
+    birthdate: 1886
+    deathdate: 1949
+    gutenberg_agent_id: '53442'
+    url: http://www.gutenberg.org/2009/agents/53442
+    wikipedia: https://fi.wikipedia.org/wiki/Anna-Maria_Tallgren
+creator:
+  author:
+    agent_name: Bang, Herman
+    alias: Bang, Herman Joachim
+    birthdate: 1857
+    deathdate: 1912
+    gutenberg_agent_id: '3638'
+    url: http://www.gutenberg.org/2009/agents/3638
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Herman_Bang
+    - https://da.wikipedia.org/wiki/Herman_Bang
+description: ''
+gutenberg_issued: '2025-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75336'
+language: fi
+pgterms:marc905: 20241218005555bang
+pgterms:marc906: '1927'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHelsinkiHelsinki :$bOtavaOtava, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Danish fiction -- Translations into Finnish'
+- !lcc 'PT'
+- GITenberg
+title: 'Isänmaattomat : $b Romaani'
+url: http://www.gutenberg.org/ebooks/75336
